@@ -1,0 +1,12 @@
+PODS:
+  - FWJoystick (1.0.3)
+
+DEPENDENCIES:
+  - FWJoystick (~> 1.0.3)
+
+SPEC CHECKSUMS:
+  FWJoystick: 8bff5f8322f4df51ffc1e2b5e3d780fa4cc6314c
+
+PODFILE CHECKSUM: 50bae8160a31d2a66f8d31e9d1d6bcf60faf5379
+
+COCOAPODS: 1.2.0

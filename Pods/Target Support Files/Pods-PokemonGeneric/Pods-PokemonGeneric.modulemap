@@ -1,0 +1,6 @@
+framework module Pods_PokemonGeneric {
+  umbrella header "Pods-PokemonGeneric-umbrella.h"
+
+  export *
+  module * { export * }
+}

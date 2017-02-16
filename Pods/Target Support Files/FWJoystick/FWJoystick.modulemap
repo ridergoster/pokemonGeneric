@@ -1,0 +1,6 @@
+framework module FWJoystick {
+  umbrella header "FWJoystick-umbrella.h"
+
+  export *
+  module * { export * }
+}
